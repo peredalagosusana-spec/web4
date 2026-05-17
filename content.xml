@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260517235254WLJSL9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605172352548X6QQF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CONCRECCIÓN CURRICULAR SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779049759736</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpa8ak0y-13sk954nf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CONCRECCIÓN CURRICULAR SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCRECCIÓN CURRICULAR SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DE LA SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CONCRECCIÓN CURRICULAR SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak0y-13sk954nf</odePageId>
+      <odeBlockId>block-1775756352984-nhk9rngri</odeBlockId>
+      <blockName>DESCRIPCIÓN DE LA SdA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak0y-13sk954nf</odePageId>
+          <odeBlockId>block-1775756352984-nhk9rngri</odeBlockId>
+          <odeIdeviceId>idevice-1775756352982-77975epx2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />La presente Situación de Aprendizaje se dirige al alumnado de 1º de Educación Primaria dentro del área de Lengua Castellana y Literatura, integrando de forma interdisciplinar contenidos de Ciencias Naturales, Ciencias Sociales y Educación Artística. Se articula en torno al cuento “Rana de tres ojos”, que actúa como elemento motivador y eje vertebrador del proceso de enseñanza-aprendizaje.</p>
+<p>El objetivo principal es desarrollar la competencia comunicativa del alumnado mediante la lectura, comprensión y producción de textos orales y escritos, al mismo tiempo que se fomenta la conciencia medioambiental y el pensamiento crítico. A través de metodologías activas, el alumnado investiga, reflexiona y crea productos con impacto en su entorno cercano.</p>
+<p>Se trata de una propuesta inclusiva basada en los principios del Diseño Universal para el Aprendizaje (DUA), que contempla la diversidad mediante múltiples formas de implicación, representación y acción.</p>
+<p> <br />🎓 Etapa educativa y nivel<br />Educación Primaria, 1º curso (6-7 años).</p>
+<p> <br />📚 Áreas implicadas<br />Lengua Castellana y Literatura, Ciencias Naturales, Ciencias Sociales y Educación Artística.</p>
+<p> <br />👥 Agrupamientos y organización espacial<br />Se emplearán agrupamientos variados:</p>
+<p>Individual<br />Parejas<br />Grupos cooperativos heterogéneos con roles<br />Gran grupo<br />Espacios:</p>
+<p>Aula ordinaria<br />Biblioteca<br />Aula de usos múltiples<br />Patio<br /> <br />⏱️ Temporalización<br />17-18 sesiones de 60 minutos organizadas en:</p>
+<p>Activación<br />Desarrollo<br />Síntesis<br />Evaluación<br /> <br />🎯 Productos del alumnado<br />Infografía interactiva (Genially/Canva): sobre la regla de las 3R con elementos interactivos.</p>
+<p>Vídeo tipo Booktuber: explicación del cuento en formato audiovisual.</p>
+<p>Otros productos: cuaderno de investigación, rimas, titulares y papeleras recicladas.</p>
+<p> <br />💻 Herramientas tecnológicas<br />Genially, Canva, PDI, Teams, cámara de vídeo y recursos audiovisuales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775756352982-77975epx2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />La presente Situación de Aprendizaje se dirige al alumnado de 1º de Educación Primaria dentro del área de Lengua Castellana y Literatura, integrando de forma interdisciplinar contenidos de Ciencias Naturales, Ciencias Sociales y Educación Artística. Se articula en torno al cuento “Rana de tres ojos”, que actúa como elemento motivador y eje vertebrador del proceso de enseñanza-aprendizaje.</p>\n<p>El objetivo principal es desarrollar la competencia comunicativa del alumnado mediante la lectura, comprensión y producción de textos orales y escritos, al mismo tiempo que se fomenta la conciencia medioambiental y el pensamiento crítico. A través de metodologías activas, el alumnado investiga, reflexiona y crea productos con impacto en su entorno cercano.</p>\n<p>Se trata de una propuesta inclusiva basada en los principios del Diseño Universal para el Aprendizaje (DUA), que contempla la diversidad mediante múltiples formas de implicación, representación y acción.</p>\n<p> <br />🎓 Etapa educativa y nivel<br />Educación Primaria, 1º curso (6-7 años).</p>\n<p> <br />📚 Áreas implicadas<br />Lengua Castellana y Literatura, Ciencias Naturales, Ciencias Sociales y Educación Artística.</p>\n<p> <br />👥 Agrupamientos y organización espacial<br />Se emplearán agrupamientos variados:</p>\n<p>Individual<br />Parejas<br />Grupos cooperativos heterogéneos con roles<br />Gran grupo<br />Espacios:</p>\n<p>Aula ordinaria<br />Biblioteca<br />Aula de usos múltiples<br />Patio<br /> <br />⏱️ Temporalización<br />17-18 sesiones de 60 minutos organizadas en:</p>\n<p>Activación<br />Desarrollo<br />Síntesis<br />Evaluación<br /> <br />🎯 Productos del alumnado<br />Infografía interactiva (Genially/Canva): sobre la regla de las 3R con elementos interactivos.</p>\n<p>Vídeo tipo Booktuber: explicación del cuento en formato audiovisual.</p>\n<p>Otros productos: cuaderno de investigación, rimas, titulares y papeleras recicladas.</p>\n<p> <br />💻 Herramientas tecnológicas<br />Genially, Canva, PDI, Teams, cámara de vídeo y recursos audiovisuales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak10-3bo1x35o0</odePageId>
+  <odeParentPageId>page-mpa8ak0y-13sk954nf</odeParentPageId>
+  <pageName>INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak10-3bo1x35o0</odePageId>
+      <odeBlockId>block-1775756701533-p2694otgy</odeBlockId>
+      <blockName>INTENCIÓN EDUCATIVA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak10-3bo1x35o0</odePageId>
+          <odeBlockId>block-1775756701533-p2694otgy</odeBlockId>
+          <odeIdeviceId>idevice-1775756701531-yi6z5xxva</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje tiene como finalidad desarrollar la competencia comunicativa del alumnado a través de situaciones significativas que conectan el aprendizaje con la realidad. Se fomenta el pensamiento crítico, la autonomía y la implicación activa en el proceso de aprendizaje.</p>
+<p>Asimismo, se promueve la educación en valores, especialmente el respeto al medio ambiente, favoreciendo la construcción de una ciudadanía responsable.</p>
+<p> <br />🌍<strong> Relación con los ODS</strong><br />ODS 4: Educación de calidad<br />ODS 12: Producción y consumo responsable<br />ODS 14: Vida submarina<br />ODS 15: Ecosistemas terrestres<br /> <br />🚀 <strong>Retos del siglo XXI</strong><br />Pensamiento crítico<br />Competencia digital<br />Trabajo colaborativo<br />Conciencia global</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775756701531-yi6z5xxva","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje tiene como finalidad desarrollar la competencia comunicativa del alumnado a través de situaciones significativas que conectan el aprendizaje con la realidad. Se fomenta el pensamiento crítico, la autonomía y la implicación activa en el proceso de aprendizaje.</p>\n<p>Asimismo, se promueve la educación en valores, especialmente el respeto al medio ambiente, favoreciendo la construcción de una ciudadanía responsable.</p>\n<p> <br />🌍<strong> Relación con los ODS</strong><br />ODS 4: Educación de calidad<br />ODS 12: Producción y consumo responsable<br />ODS 14: Vida submarina<br />ODS 15: Ecosistemas terrestres<br /> <br />🚀 <strong>Retos del siglo XXI</strong><br />Pensamiento crítico<br />Competencia digital<br />Trabajo colaborativo<br />Conciencia global</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak10-4o6s8bo32</odePageId>
+  <odeParentPageId>page-mpa8ak0y-13sk954nf</odeParentPageId>
+  <pageName>ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak10-4o6s8bo32</odePageId>
+      <odeBlockId>block-1775756840079-rtqolfz1h</odeBlockId>
+      <blockName>ELEMENTOS CURRICULARES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak10-4o6s8bo32</odePageId>
+          <odeBlockId>block-1775756840079-rtqolfz1h</odeBlockId>
+          <odeIdeviceId>idevice-1775756840076-vt6vfxo5g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>COMPETENCIAS CLAVE</strong><br />Comunicación lingüística (CCL)<br />Competencia digital (CD)<br />Aprender a aprender (CPSAA)<br />Competencia ciudadana (CC)<br />Conciencia cultural (CCEC)<br /> <br /><strong>COMPETENCIAS ESPECÍFICAS</strong><br />Producción oral<br />Producción escrita<br />Comprensión lectora<br /> <br /><strong>SABERES BÁSICOS</strong><br />Fonema R<br />Sustantivos<br />Rima<br />Noticia<br />Comprensión lectora<br /> <br /><strong>CRITERIOS DE EVALUACIÓN</strong><br />Participación oral<br />Producción escrita coherente<br />Comprensión de textos<br />Creación de rimas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775756840076-vt6vfxo5g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>COMPETENCIAS CLAVE</strong><br />Comunicación lingüística (CCL)<br />Competencia digital (CD)<br />Aprender a aprender (CPSAA)<br />Competencia ciudadana (CC)<br />Conciencia cultural (CCEC)<br /> <br /><strong>COMPETENCIAS ESPECÍFICAS</strong><br />Producción oral<br />Producción escrita<br />Comprensión lectora<br /> <br /><strong>SABERES BÁSICOS</strong><br />Fonema R<br />Sustantivos<br />Rima<br />Noticia<br />Comprensión lectora<br /> <br /><strong>CRITERIOS DE EVALUACIÓN</strong><br />Participación oral<br />Producción escrita coherente<br />Comprensión de textos<br />Creación de rimas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak11-1x4atwq30</odePageId>
+  <odeParentPageId>page-mpa8ak0y-13sk954nf</odeParentPageId>
+  <pageName>METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak11-1x4atwq30</odePageId>
+      <odeBlockId>block-1775756909421-kkgb6whgk</odeBlockId>
+      <blockName>METODOLOGÍAS ACTIVAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak11-1x4atwq30</odePageId>
+          <odeBlockId>block-1775756909421-kkgb6whgk</odeBlockId>
+          <odeIdeviceId>idevice-1775756909418-hfpnvmlcb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se emplean metodologías centradas en el alumnado:</p>
+<p>1. Aprendizaje cooperativo<br />2. Aprendizaje basado en el pensamiento<br />3. Gamificación<br />4. Estaciones de aprendizaje<br />5. Aprendizaje por descubrimiento<br />Estas metodologías favorecen la inclusión, la motivación y el aprendizaje significativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775756909418-hfpnvmlcb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se emplean metodologías centradas en el alumnado:</p>\n<p>1. Aprendizaje cooperativo<br />2. Aprendizaje basado en el pensamiento<br />3. Gamificación<br />4. Estaciones de aprendizaje<br />5. Aprendizaje por descubrimiento<br />Estas metodologías favorecen la inclusión, la motivación y el aprendizaje significativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak11-yf5toq5tm</odePageId>
+  <odeParentPageId>page-mpa8ak0y-13sk954nf</odeParentPageId>
+  <pageName>VINCULACIÓN CON PROGRAMAS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON PROGRAMAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VINCULACIÓN CON PROGRAMAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak11-yf5toq5tm</odePageId>
+      <odeBlockId>block-1775757008725-8n6y0y2j1</odeBlockId>
+      <blockName>VINCULACIÓN CON PROGRAMAS DEL CENTRO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak11-yf5toq5tm</odePageId>
+          <odeBlockId>block-1775757008725-8n6y0y2j1</odeBlockId>
+          <odeIdeviceId>idevice-1775757008723-h09v95igw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se relaciona con:</p>
+<p><strong>PLEI</strong> → desarrollo lector<br /><strong>PAD </strong>→ atención a la diversidad<br /><strong>Plan digital </strong>→ uso de TIC<br /><strong>Plan de convivencia</strong> → habilidades sociales<br /><strong>Programa de bienestar</strong> → educación emocional</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775757008723-h09v95igw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se relaciona con:</p>\n<p><strong>PLEI</strong> → desarrollo lector<br /><strong>PAD </strong>→ atención a la diversidad<br /><strong>Plan digital </strong>→ uso de TIC<br /><strong>Plan de convivencia</strong> → habilidades sociales<br /><strong>Programa de bienestar</strong> → educación emocional</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak11-f6oplvg9o</odePageId>
+  <odeParentPageId>page-mpa8ak0y-13sk954nf</odeParentPageId>
+  <pageName>ACTIVIDADES COMPLEMENTARIAS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES COMPLEMENTARIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak11-f6oplvg9o</odePageId>
+      <odeBlockId>block-1775757046199-lurs3dbtz</odeBlockId>
+      <blockName>ACTIVIDADES COMPLEMENTARIAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak11-f6oplvg9o</odePageId>
+          <odeBlockId>block-1775757046199-lurs3dbtz</odeBlockId>
+          <odeIdeviceId>idevice-1775757046198-osjofhvbp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Día del reciclaje<br />2. Actividades en el patio<br />3. Uso de biblioteca<br />4. Investigación en familia</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775757046198-osjofhvbp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Día del reciclaje<br />2. Actividades en el patio<br />3. Uso de biblioteca<br />4. Investigación en familia</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak12-4jzce1co5</odePageId>
+  <odeParentPageId>page-mpa8ak0y-13sk954nf</odeParentPageId>
+  <pageName>ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak12-4jzce1co5</odePageId>
+      <odeBlockId>block-1775757079981-2uvqtvh3m</odeBlockId>
+      <blockName>ATRIBUCIÓN Y DESCARGA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak12-4jzce1co5</odePageId>
+          <odeBlockId>block-1775757079981-2uvqtvh3m</odeBlockId>
+          <odeIdeviceId>idevice-1775757079980-agntbnup3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775757079980-agntbnup3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpa8ak12-4jzce1co5</odePageId>
+      <odeBlockId>block-1775757614844-yfkbtjjfs</odeBlockId>
+      <blockName>LICENCIA Y DESCARGA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak12-4jzce1co5</odePageId>
+          <odeBlockId>block-1775757614844-yfkbtjjfs</odeBlockId>
+          <odeIdeviceId>idevice-1775757614841-nzz3rfnq5</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CONCRECCIÓN CURRICULAR SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#75105a;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak12-1h9ic98wp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SITUACIÓN DE APRENDIZAJE</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak12-1h9ic98wp</odePageId>
+      <odeBlockId>block-1775847589911-gy36ui17k</odeBlockId>
+      <blockName>HUELLAS VERDES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak12-1h9ic98wp</odePageId>
+          <odeBlockId>block-1775847589911-gy36ui17k</odeBlockId>
+          <odeIdeviceId>idevice-1775847589908-tlrqrj5xf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Temporalización: </strong>18 sesiones flexibles.</p>
+<p>Intencionalidad: Fomentar la animación a la lectura, el hábito lector y concienciar sobre problemas medioambientales mediante el análisis de noticias reales.</p>
+<p><strong>Saberes Básicos:</strong></p>
+<p>- Fonema R (suave y fuerte).</p>
+<p>- El sustantivo (género y número).</p>
+<p> - La Rima y La Noticia.</p>
+<p><strong> Conexión Interdisciplinar: </strong>Ciencias Sociales, Naturales y Educación Artística</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775847589908-tlrqrj5xf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Temporalización: </strong>18 sesiones flexibles.</p>\n<p>Intencionalidad: Fomentar la animación a la lectura, el hábito lector y concienciar sobre problemas medioambientales mediante el análisis de noticias reales.</p>\n<p><strong>Saberes Básicos:</strong></p>\n<p>- Fonema R (suave y fuerte).</p>\n<p>- El sustantivo (género y número).</p>\n<p> - La Rima y La Noticia.</p>\n<p><strong> Conexión Interdisciplinar: </strong>Ciencias Sociales, Naturales y Educación Artística</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak13-wiq9vz3en</odePageId>
+  <odeParentPageId>page-mpa8ak12-1h9ic98wp</odeParentPageId>
+  <pageName>FASE 1: PREPARACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE 1: PREPARACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE 1: PREPARACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak13-wiq9vz3en</odePageId>
+      <odeBlockId>block-1775847789945-s9rlypevs</odeBlockId>
+      <blockName>PREPARACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak13-wiq9vz3en</odePageId>
+          <odeBlockId>block-1775847789945-s9rlypevs</odeBlockId>
+          <odeIdeviceId>idevice-1775847789942-y79pvhczn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Tarea 1: "Adivina con Nora"</strong></p>
+<p>Gymkana: Buscar pistas (puzle, adivinanzas, globo terráqueo) escondidas cerca de huellas de colores (rojas, amarillas, verdes).</p>
+<p>Vídeo: Visionado del vídeo de Nora presentando el cuento "Rana de tres ojos".</p>
+<p><strong>Tarea 2: "Pensando en Verde"</strong></p>
+<p> Organizador Gráfico: Lluvia de ideas sobre "¿Qué sé?" y "¿Qué quiero saber?" decorado con huellas verdes de manos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775847789942-y79pvhczn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tarea 1: \"Adivina con Nora\"</strong></p>\n<p>Gymkana: Buscar pistas (puzle, adivinanzas, globo terráqueo) escondidas cerca de huellas de colores (rojas, amarillas, verdes).</p>\n<p>Vídeo: Visionado del vídeo de Nora presentando el cuento \"Rana de tres ojos\".</p>\n<p><strong>Tarea 2: \"Pensando en Verde\"</strong></p>\n<p> Organizador Gráfico: Lluvia de ideas sobre \"¿Qué sé?\" y \"¿Qué quiero saber?\" decorado con huellas verdes de manos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak13-pp4q22ue0</odePageId>
+  <odeParentPageId>page-mpa8ak12-1h9ic98wp</odeParentPageId>
+  <pageName>FASE 2: REALIZACIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE 2: REALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE 2: REALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak13-pp4q22ue0</odePageId>
+      <odeBlockId>block-1775847906055-wfug300mk</odeBlockId>
+      <blockName>RElIZACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak13-pp4q22ue0</odePageId>
+          <odeBlockId>block-1775847906055-wfug300mk</odeBlockId>
+          <odeIdeviceId>idevice-1775847906053-i2k8ngctp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Tarea 3: "Ranas saltarinas"</strong></p>
+<p>Lectura en voz alta del cuento en la PDI.</p>
+<p> Dado Preguntón: Lanzar el dado saltando como ranas para responder preguntas de comprensión.</p>
+<p> Gramática: Explicación y clasificación de sustantivos (género, número, singular y plural) con sus artículos.</p>
+<p> Dictado explosivo: Explotar globos con sustantivos para escribirlos con su artículo.</p>
+<p> Booktubers: Grabación de vídeos explicando el cuento para compartir en TEAMS.</p>
+<p>  <br />(Genially/Vídeo)</p>
+<p><strong>Tarea 4: "Con R de Rima"</strong></p>
+<p>Conciencia fonológica: Identificar R fuerte y suave mediante un Genially y trabalenguas.</p>
+<p> Las 3 R: Visualización de vídeo sobre Reducir, Reutilizar y Reciclar.</p>
+<p> Bingo de Rimas: Identificar parejas de palabras que riman usando una ruleta.</p>
+<p><strong> Tarea 5: "Investiga con Nora"</strong></p>
+<p>Localización en familia de los contenedores de reciclaje cercanos a casa.</p>
+<p><strong> Tarea 6: "Nora presentadora"</strong></p>
+<p>Lectura de noticias medioambientales adaptadas y reflexión sobre la basura en el patio del colegio usando tarjetas de emociones.</p>
+<p><strong>Tarea 7. Infografía</strong></p>
+<p>Infografía sobre reciclaje. Me ayudarán a completar dicha imagen con el nombre de los contenedores de reciclaje.</p>
+<p><a href="{{context_path}}/content/resources/INFOGRAFÍA.pdf" title="INFOGRAFÍA.pdf">{{context_path}}/content/resources/INFOGRAFÍA.pdf</a></p>
+<p><a href="https://github.com/peredalagosusana-spec/web3/blob/main/INFOGRAF%C3%8DA.pdf" title="">https://github.com/peredalagosusana-spec/web3/blob/main/INFOGRAF%C3%8DA.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775847906053-i2k8ngctp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tarea 3: \"Ranas saltarinas\"</strong></p>\n<p>Lectura en voz alta del cuento en la PDI.</p>\n<p> Dado Preguntón: Lanzar el dado saltando como ranas para responder preguntas de comprensión.</p>\n<p> Gramática: Explicación y clasificación de sustantivos (género, número, singular y plural) con sus artículos.</p>\n<p> Dictado explosivo: Explotar globos con sustantivos para escribirlos con su artículo.</p>\n<p> Booktubers: Grabación de vídeos explicando el cuento para compartir en TEAMS.</p>\n<p>  <br />(Genially/Vídeo)</p>\n<p><strong>Tarea 4: \"Con R de Rima\"</strong></p>\n<p>Conciencia fonológica: Identificar R fuerte y suave mediante un Genially y trabalenguas.</p>\n<p> Las 3 R: Visualización de vídeo sobre Reducir, Reutilizar y Reciclar.</p>\n<p> Bingo de Rimas: Identificar parejas de palabras que riman usando una ruleta.</p>\n<p><strong> Tarea 5: \"Investiga con Nora\"</strong></p>\n<p>Localización en familia de los contenedores de reciclaje cercanos a casa.</p>\n<p><strong> Tarea 6: \"Nora presentadora\"</strong></p>\n<p>Lectura de noticias medioambientales adaptadas y reflexión sobre la basura en el patio del colegio usando tarjetas de emociones.</p>\n<p><strong>Tarea 7. Infografía</strong></p>\n<p>Infografía sobre reciclaje. Me ayudarán a completar dicha imagen con el nombre de los contenedores de reciclaje.</p>\n<p><a href=\"{{context_path}}/content/resources/INFOGRAFÍA.pdf\" title=\"INFOGRAFÍA.pdf\">{{context_path}}/content/resources/INFOGRAFÍA.pdf</a></p>\n<p><a href=\"https://github.com/peredalagosusana-spec/web3/blob/main/INFOGRAF%C3%8DA.pdf\" title=\"\">https://github.com/peredalagosusana-spec/web3/blob/main/INFOGRAF%C3%8DA.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak14-j59ogqven</odePageId>
+  <odeParentPageId>page-mpa8ak12-1h9ic98wp</odeParentPageId>
+  <pageName>FASE 3: SÍNTESIS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE 3: SÍNTESIS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE 3: SÍNTESIS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak14-j59ogqven</odePageId>
+      <odeBlockId>block-1775848077779-sb3gann99</odeBlockId>
+      <blockName>SÍNTESIS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak14-j59ogqven</odePageId>
+          <odeBlockId>block-1775848077779-sb3gann99</odeBlockId>
+          <odeIdeviceId>idevice-1775848077778-mg272pd58</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em>1. Estación de Lectura:</em> Sopas de letras de sustantivos y memory de piedras pintadas.</p>
+<p>  </p>
+<p><em>2. Estación R: </em>Juego de saltar por sustantivos, "Monstruo de la R" (R fuerte/suave) y emparejar rimas.</p>
+<p> </p>
+<p><em>3. Estación del Periódico:</em> Ordenar titulares y realizar entrevistas con micrófonos reciclados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775848077778-mg272pd58","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em>1. Estación de Lectura:</em> Sopas de letras de sustantivos y memory de piedras pintadas.</p>\n<p>  </p>\n<p><em>2. Estación R: </em>Juego de saltar por sustantivos, \"Monstruo de la R\" (R fuerte/suave) y emparejar rimas.</p>\n<p> </p>\n<p><em>3. Estación del Periódico:</em> Ordenar titulares y realizar entrevistas con micrófonos reciclados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak14-o9mbrlpmt</odePageId>
+  <odeParentPageId>page-mpa8ak14-j59ogqven</odeParentPageId>
+  <pageName>El rosco de la R</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El rosco de la R</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El rosco de la R</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak14-o9mbrlpmt</odePageId>
+      <odeBlockId>block-1776181696185-6rlyxomwa</odeBlockId>
+      <blockName>Rosco</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak14-o9mbrlpmt</odePageId>
+          <odeBlockId>block-1776181696185-6rlyxomwa</odeBlockId>
+          <odeIdeviceId>idevice-1776181696183-lacqt0ze6</odeIdeviceId>
+          <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rosco-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776181696183-lacqt0ze6" data-evaluationb="false" data-evaluationid="72c8e1e4-9ecc-4725-a908-ecaf9e8410a7"></div><div class="rosco-version js-hidden">2</div><div class="rosco-instructions"><p>ESCUCHA LAS PISTAS Y ADIVINA DE QUÉ PALABRAS QUE CONTIENEN LA LETRA R NOS ENTÁN HABLANDO.</p></div><div class="rosco-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D7%C1%D1%C7%D1%DA%D3%B2%DE%D3%C1%B2%C2%DB%C1%C6%D3%C1%B2%CB%B2%D3%D6%DB%C4%DB%DC%D3%B2%D6%D7%B2%C3%C7%5B%B2%C2%D3%DE%D3%D0%C0%D3%C1%B2%C3%C7%D7%B2%D1%DD%DC%C6%DB%D7%DC%D7%DC%B2%DE%D3%B2%DE%D7%C6%C0%D3%B2%C0%B2%DC%DD%C1%B2%D7%DC%C6S%DC%B2%DA%D3%D0%DE%D3%DC%D6%DD%BC%AE%BD%E2%AC%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A7%BE%B0%F6%E7%E0%F3%E6%FB%FD%FC%D5%F3%FF%F7%B0%A8%A4%A2%A2%BE%B0%FC%E7%FF%F0%F7%E0%C6%E7%E0%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0S%C0%D0%DD%DE%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%F3%B2%E2%FE%F3%FC%E6%F3%B2%FF%E7%EB%B2%F5%E0%F3%FC%F6%F7%B2%F1%FD%FC%B2%E6%E0%FD%FC%F1%FD%B2%F6%F7%B2%FF%F3%F6%F7%E0%F3%B2%EB%B2%FA%FD%F8%F3%E1%B2%E4%F7%E0%F6%F7%E1%B2%E3%E7%F7%B2%F6%F7%F0%F7%FF%FD%E1%B2%F1%E7%FB%F6%F3%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D0%D3%C1%C7%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%C1%FD%FC%B2%FE%F3%E1%B2%F1%FD%E1%F3%E1%B2%E3%E7%F7%B2%EB%F3%B2%FC%FD%B2%E1%FB%E0%E4%F7%FC%B2%EB%B2%F6%F7%F0%F7%FF%FD%E1%B2%E6%FB%E0%F3%E0%B2%E1%FB%F7%FF%E2%E0%F7%B2%F3%FE%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B2%E2%F3%E0%F3%B2%FC%FD%B2%F7%FC%E1%E7%F1%FB%F3%E0%B2%F7%FE%B2%E2%F3%E6%FB%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D1%D3%C0%C0%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%FD%F0%F8%F7%E6%FD%B2%E3%E7%F7%B2%E6%FB%F7%FC%F7%B2%E0%E7%F7%F6%F3%E1%B2%EB%B2%E1%FB%E0%E4%F7%B2%E2%F3%E0%F3%B2%FE%FE%F7%E4%F3%E0%B2%F1%FD%E1%F3%E1%B2%E2%F7%E1%F3%F6%F3%E1%B2%F6%F7%B2%E7%FC%B2%FE%F3%F6%FD%B2%F3%B2%FD%E6%E0%FD%B2%E1%FB%FC%B2%F1%F3%FC%E1%F3%E0%FC%FD%E1%B2%FF%E7%F1%FA%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D6%C0%D3%D5A%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%F3%FC%FB%FF%F3%FE%B2%F4%F3%FC%E6s%E1%E6%FB%F1%FD%B2%F6%F7%B2%FE%FD%E1%B2%F1%E7%F7%FC%E6%FD%E1%B2%E3%E7%F7%B2%E6%FB%F7%FC%F7%B2%F3%FE%F3%E1%BE%B2%F7%E1%F1%F3%FF%F3%E1%B2%EB%B2%E2%E7%F7%F6%F7%B2%F7%F1%FA%F3%E0%B2%F4%E7%F7%F5%FD%B2%E2%FD%E0%B2%FE%F3%B2%F0%FD%F1%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D7%C1%D1%C0%DB%C6%C7%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%F1%E7%F3%FC%F6%FD%B2%E7%E1%F3%FF%FD%E1%B2%F7%FE%B2%FEs%E2%FB%E8%B2%E2%F3%E0%F3%B2%F4%FD%E0%FF%F3%E0%B2%FE%F7%E6%E0%F3%E1%B2%EB%B2%F7%E1%F1%E0%FB%F0%FB%E0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%FD%B2%E2%FD%F7%E1%7F%F3%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D4%DE%DD%C0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%FE%F3%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%FE%F3%E1%B2%E2%FE%F3%FC%E6%F3%E1%B2%E3%E7%F7%B2%E1%F3%FE%F7%B2%F7%FC%B2%E2%E0%FB%FF%F3%E4%F7%E0%F3%B2%EB%B2%E6%FB%F7%FC%F7%B2%FF%E7%F1%FA%FD%E1%B2%F1%FD%FE%FD%E0%F7%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D5%C7%DB%C6%D3%C0%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%DB%FC%E1%E6%E0%E7%FF%F7%FC%E6%FD%B2%FF%E7%E1%FB%F1%F3%FE%B2%F6%F7%B2%F1%E7%F7%E0%F6%F3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DA%DB%C1%C6%DD%C0%DB%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%C0%F7%FE%F3%E6%FD%B2%F6%F7%B2%E7%FC%B2%E1%E7%F1%F7%E1%FD%BE%B2%F1%FD%FC%B2%E2%E0%FB%FC%F1%FB%E2%FB%FD%BE%B2%F6%F7%E1%F3%E0%E0%FD%FE%FE%FD%B2%EB%B2%F4%FB%FC%F3%FE%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DB%C0%DB%C1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%C2%F3%E0%E6%F7%B2%F6%F7%FE%B2%FD%F8%FD%B2%E3%E7%F7%B2%E6%FB%F7%FC%F7%B2%F1%FD%FE%FD%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D8%D3%C0%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%E0%F7%F1%FB%E2%FB%F7%FC%E6%F7%B2%F1%FD%FC%B2%E7%FC%B2%F3%E1%F3%B2%E3%E7%F7%B2%E1%FB%E0%E4%F7%B2%E2%F3%E0%F3%B2%F5%E7%F3%E0%F6%F3%E0%B2%EB%B2%E1%F7%E0%E4%FB%E0%B2%FE%7F%E3%E7%FB%F6%FD%E1%BE%B2%F1%FD%FF%FD%B2%F3%F5%E7%F3%BE%B2%FE%F7%F1%FA%F7%B2%FD%B2%E8%E7%FF%FD%BE%B2%F7%FC%B2%FE%FD%E1%B2%E4%F3%E1%FD%E1%B2%F6%F7%B2%FE%F3%B2%FF%F7%E1%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D9%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D9S%C0%D3%C6%D7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%F6%F7%E2%FD%E0%E6%F7%B2%EB%B2%E7%FC%B2%F3%E0%E6%F7%B2%FF%F3%E0%F1%FB%F3%FE%B2%FF%E7%EB%B2%F3%FC%E6%FB%F5%E7%FD%B2%F7%FC%B2%F7%FE%B2%E3%E7%F7%B2%E1%F7%B2%E7%E6%FB%FE%FB%E8%F3%B2%F7%FE%B2%F1%E7%F7%E0%E2%FD%B2%E2%F3%E0%F3%B2%F6%F7%F4%F7%FC%F6%F7%E0%E1%F7%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DE%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DE%DB%D0%C0%D7%C6%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%F7%FE%B2%F1%E7%F3%F6%F7%E0%FC%FD%B2%F6%FD%FC%F6%F7%B2%F7%E1%F1%E0%FB%F0%FB%FF%FD%E1%B2%FE%F3%E1%B2%E6%F3%E0%F7%F3%E1%B2%EB%B2%E2%F7%F5%F3%FF%FD%E1%B2%FC%E7%F7%E1%E6%E0%FD%E1%B2%F1%E0%FD%FF%FD%E1%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DF%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DF%D3%C0%C0A%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D1%FD%FE%FD%E0%B2%F6%F7%FE%B2%E6%E0%FD%FC%F1%FD%B2%F6%F7%B2%FE%FD%E1%B2s%E0%F0%FD%FE%F7%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DC%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DC%D3%C6%C7%C0%D3%DE%D7%C8%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E6%FD%F6%FD%B2%FE%FD%B2%E3%E7%F7%B2%FC%FD%E1%B2%E0%FD%F6%F7%F3%B2%E3%E7%F7%B2%FC%FD%B2%FA%F3%B2%E1%FB%F6%FD%B2%F4%F3%F0%E0%FB%F1%F3%F6%FD%B2%E2%FD%E0%B2%FE%F3%E1%B2%E2%F7%E0%E1%FD%FC%F3%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0C%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D3%C0%D3C%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%F3%FC%FB%FF%F3%FE%B2%E2%F7%E3%E7%F7c%FD%B2%E3%E7%F7%B2%E6%FB%F7%FC%F7%B2%FD%F1%FA%FD%B2%E2%F3%E6%F3%E1%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DD%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DD%C0%D3%D1%DBA%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%F3%B2%F4%E0%F3%E1%F7%B2%F1%FD%E0%E6%FB%E6%F3%B2%E3%E7%F7%B2%F7%E1%F1%E0%FB%F0%FB%FF%FD%E1%B2%E7%E1%F3%FC%F6%FD%B2%E4%F3%E0%FB%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C2%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C2%C0%DB%DF%D3%C4%D7%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%FE%F3%B2%F7%E1%E6%F3%F1%FBa%FC%B2%F6%F7%FE%B2%F3c%FD%B2%F7%FC%B2%FE%F3%B2%E3%E7%F7%B2%FC%F3%F1%F7%FC%B2%FE%F3%E1%B2%F4%FE%FD%E0%F7%E1%B2%EB%B2%F7%FE%B2%F1%F3%FF%E2%FD%B2%E1%F7%B2%E2%FD%FC%F7%B2%E4%F7%E0%F6%F7%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C0%D3%C3%C7%D7%C6%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%FD%F0%F8%F7%E6%FD%B2%E3%E7%F7%B2%E6%FB%F7%FC%F7%B2%E7%FC%B2%FF%F3%FC%F5%FD%B2%FE%F3%E0%F5%FD%B2%EB%B2%E7%FC%F3%B2%E0%F7%F6%B2%F4%E7%F7%E0%E6%F7%B2%F7%FC%B2%FE%F3%B2%E2%E7%FC%E6%F3%BC%B2%C1%F7%B2%E7%E1%F3%B2%E2%F3%E0%F3%B2%F5%FD%FE%E2%F7%F3%E0%B2%FE%F3%B2%E2%F7%FE%FD%E6%F3%B2%EB%B2%E2%F3%E1%F3%E0%FE%F3%B2%F3%FE%B2%FD%E6%E0%FD%B2%FE%F3%F6%FD%B2%F6%F7%B2%FE%F3%B2%E0%F7%F6%B2%F1%E7%F3%FC%F6%FD%B2%F8%E7%F5%F3%FF%FD%E1%B2%F3%B2%F6%F7%E2%FD%E0%E6%F7%E1%B2%F1%FD%FF%FD%B2%F7%FE%B2%E6%F7%FC%FB%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C0%D7%D1%DB%D1%DE%D3%C0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%C0%BE%B2%D7%E1%B2%F5%E7%F3%E0%F6%F3%E0%B2%F7%FE%B2%E2%F3%E2%F7%FE%BE%B2%F7%FE%B2%E2%FEs%E1%E6%FB%F1%FD%B2%EB%B2%F7%FE%B2%E4%FB%F6%E0%FB%FD%B2%F7%FC%B2%E1%E7%B2%F1%FD%FC%E6%F7%FC%F7%F6%FD%E0%B2%E2%F3%E0%F3%B2%F3%EB%E7%F6%F3%E0%B2%F3%FE%B2%E2%FE%F3%FC%F7%E6%F3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C1%DB%D7%C0%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%DA%F7%E0%E0%F3%FF%FB%F7%FC%E6%F3%B2%E3%E7%F7%B2%E1%FB%E0%E4%F7%B2%E2%F3%E0%F3%B2%F1%FD%E0%E6%F3%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C6%DB%D7%C0%C0%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%F7%FE%B2%E2%FE%F3%FC%F7%E6%F3%B2%F6%FD%FC%F6%F7%B2%E4%FB%E4%FB%FF%FD%E1%B2%EB%B2%E3%E7%F7%B2%E3%E7%F7%E0%F7%FF%FD%E1%B2%FF%F3%FC%E6%F7%FC%F7%E0%B2%FE%FB%FF%E2%FB%FD%B2%EB%B2%E1%F3%FC%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C7%C0%D3%DC%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%C2%FE%F3%FC%F7%E6%F3%B2%F6%F7%FE%B2%C1%FB%E1%E6%F7%FF%F3%B2%E1%FD%FE%F3%E0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C4%D7%C0%D3%DC%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%E6%F3%F1%FBa%FC%B2%F6%F7%FE%B2%F3c%FD%B2%F7%FC%B2%FE%F3%B2%E3%E7%F7%B2%FA%F3%F1%F7%B2%FFs%E1%B2%F1%F3%FE%FD%E0%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C5%D3%C6%D7%C0%C2%DD%DE%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D6%F7%E2%FD%E0%E6%F7%B2%F6%F7%B2%F7%E3%E7%FB%E2%FD%B2%E3%E7%F7%B2%E1%F7%B2%F8%E7%F7%F5%F3%B2%F6%F7%FC%E6%E0%FD%B2%F6%F7%B2%E7%FC%F3%B2%E2%FB%E1%F1%FB%FC%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D7%CA%C6%C0%D3%C6%D7%C0%C0%D7%C1%C6%C0%D7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%C1%F7%E0%B2%E4%FB%E4%FD%B2%E3%E7%F7%B2%E4%FB%F7%FC%F7%B2%F6%F7%B2%E7%FC%B2%FE%E7%F5%F3%E0%B2%F4%E7%F7%E0%F3%B2%F6%F7%B2%FE%F3%B2%C6%FB%F7%E0%E0%F3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C0%D3%CB%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%C0%BC%B2%DE%E7%E8%B2%FF%E7%EB%B2%F4%E7%F7%E0%E6%F7%B2%EB%B2%E0s%E2%FB%F6%F3%B2%E3%E7%F7%B2%F3%E2%F3%E0%F7%F1%F7%B2%F7%FC%B2%F7%FE%B2%F1%FB%F7%FE%FD%B2%F1%E7%F3%FC%F6%FD%B2%FA%F3%EB%B2%E7%FC%F3%B2%E6%FD%E0%FF%F7%FC%E6%F3%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C8%DD%C0%C0%DD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%C0%BC%B2%D7%E1%B2%E7%FC%B2%F3%FC%FB%FF%F3%FE%B2%E1%F3%FE%E4%F3%F8%F7%B2%F1%FD%FC%B2%F7%FE%B2%E2%F7%FE%FD%B2%F6%F7%B2%F1%FD%FE%FD%E0%B2%FC%F3%E0%F3%FC%F8%F3%B2%EB%B2%E7%FC%F3%B2%F1%FD%FE%F3%B2%FF%E7%EB%B2%FE%F3%E0%F5%F3%B2%EB%B2%E1%E7%F3%E4%F7%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A3%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%FE%F7%E6%E6%F7%E0%E1%B0%A8%B0%D3%D0%D1%D6%D7%D4%D5%DA%DB%D8%D9%DE%DF%DCC%DD%C2%C3%C0%C1%C6%C7%C4%C5%CA%CB%C8%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%A0%F1%AA%F7%A3%F7%A6%BF%AB%F7%F1%F1%BF%A6%A5%A0%A7%BF%F3%AB%A2%AA%BF%F7%F1%F3%F4%AB%F7%AA%A6%A3%A2%F3%A5%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A3%AA%A3%A4%AB%A4%A3%AA%A1%BF%FE%F3%F1%E3%E6%A2%E8%F7%A4%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DC%F7%E5%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B2%FC%E7%F7%E4%F3%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C5%FB%E6%FA%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%B7%A3%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%F3%FB%FC%E6%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%B7%A3%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%B0%A8%B0%C2%F3%E1%F3%E0%B2%F3%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DD%FC%F7%C0%FD%E7%FC%F6%B0%A8%B0%C7%FC%F3%B2%E4%E7%F7%FE%E6%F3%B0%BE%B0%FF%E1%F5%C6%FD%E5%C0%FD%E7%FC%F6%E1%B0%A8%B0%D6%FD%E1%B2%E4%E7%F7%FE%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FF%F3%F5%F7%B0%A8%B0%DB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C1%FB%FC%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%DA%FB%F6%F7%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DD%F1%E7%FE%E6%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C5%FA%FB%E6%F7%D0%FD%F3%E0%F6%B0%A8%B0%C2%FB%E8%F3%E0%E0%F3%B2%F6%FB%F5%FB%E6%F3%FE%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C5%FD%E0%F6%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%B0%A8%B0%C6%FD%F6%F3%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FC%E6%F7%E1%E6%F3%E0%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%EF%EF</div><a href="#" class="js-hidden rosco-LinkImages">0</a><a href="#" class="js-hidden rosco-LinkImages">1</a><a href="#" class="js-hidden rosco-LinkImages">2</a><a href="#" class="js-hidden rosco-LinkImages">3</a><a href="#" class="js-hidden rosco-LinkImages">4</a><a href="#" class="js-hidden rosco-LinkImages">5</a><a href="#" class="js-hidden rosco-LinkImages">6</a><a href="#" class="js-hidden rosco-LinkImages">7</a><a href="#" class="js-hidden rosco-LinkImages">8</a><a href="#" class="js-hidden rosco-LinkImages">9</a><a href="#" class="js-hidden rosco-LinkImages">10</a><a href="#" class="js-hidden rosco-LinkImages">11</a><a href="#" class="js-hidden rosco-LinkImages">12</a><a href="#" class="js-hidden rosco-LinkImages">13</a><a href="#" class="js-hidden rosco-LinkImages">14</a><a href="#" class="js-hidden rosco-LinkImages">15</a><a href="#" class="js-hidden rosco-LinkImages">16</a><a href="#" class="js-hidden rosco-LinkImages">17</a><a href="#" class="js-hidden rosco-LinkImages">18</a><a href="#" class="js-hidden rosco-LinkImages">19</a><a href="#" class="js-hidden rosco-LinkImages">20</a><a href="#" class="js-hidden rosco-LinkImages">21</a><a href="#" class="js-hidden rosco-LinkImages">22</a><a href="#" class="js-hidden rosco-LinkImages">23</a><a href="#" class="js-hidden rosco-LinkImages">24</a><a href="#" class="js-hidden rosco-LinkImages">25</a><a href="#" class="js-hidden rosco-LinkImages">26</a><a href="#" class="js-hidden rosco-LinkAudios">0</a><a href="#" class="js-hidden rosco-LinkAudios">1</a><a href="#" class="js-hidden rosco-LinkAudios">2</a><a href="#" class="js-hidden rosco-LinkAudios">3</a><a href="#" class="js-hidden rosco-LinkAudios">4</a><a href="#" class="js-hidden rosco-LinkAudios">5</a><a href="#" class="js-hidden rosco-LinkAudios">6</a><a href="#" class="js-hidden rosco-LinkAudios">7</a><a href="#" class="js-hidden rosco-LinkAudios">8</a><a href="#" class="js-hidden rosco-LinkAudios">9</a><a href="#" class="js-hidden rosco-LinkAudios">10</a><a href="#" class="js-hidden rosco-LinkAudios">11</a><a href="#" class="js-hidden rosco-LinkAudios">12</a><a href="#" class="js-hidden rosco-LinkAudios">13</a><a href="#" class="js-hidden rosco-LinkAudios">14</a><a href="#" class="js-hidden rosco-LinkAudios">15</a><a href="#" class="js-hidden rosco-LinkAudios">16</a><a href="#" class="js-hidden rosco-LinkAudios">17</a><a href="#" class="js-hidden rosco-LinkAudios">18</a><a href="#" class="js-hidden rosco-LinkAudios">19</a><a href="#" class="js-hidden rosco-LinkAudios">20</a><a href="#" class="js-hidden rosco-LinkAudios">21</a><a href="#" class="js-hidden rosco-LinkAudios">22</a><a href="#" class="js-hidden rosco-LinkAudios">23</a><a href="#" class="js-hidden rosco-LinkAudios">24</a><a href="#" class="js-hidden rosco-LinkAudios">25</a><a href="#" class="js-hidden rosco-LinkAudios">26</a><div class="rosco-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak15-oi1s2wh5w</odePageId>
+  <odeParentPageId>page-mpa8ak12-1h9ic98wp</odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak15-oi1s2wh5w</odePageId>
+      <odeBlockId>block-1775848177508-5hcuf7pdt</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak15-oi1s2wh5w</odePageId>
+          <odeBlockId>block-1775848177508-5hcuf7pdt</odeBlockId>
+          <odeIdeviceId>idevice-1775848177506-u9mhnfsjs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Fecha: <strong>Día del Reciclaje </strong>(17 de mayo).</p>
+<p>Realizaremos un Breakout para recordar la Regla de las 3 R y reforzaremos el fonema R. Para ello, les proyectaré una presentación y me ayudarán a realizar cada uno de los Retos para conseguir un código que abrirá el candado del cofre del reciclaje.</p>
+<p>Tendrán que ir completando un total de 3 retos para conseguir con cada uno de ellos un código secreto. Al final tendrán que introducir esos 3 códigos en la PDi y conseguirán ayudar a Nube a abrir el cofre.</p>
+<p>Para ello utilizaré la siguiente presentación:</p>
+<p><a href="{{context_path}}/content/resources/BREAKOUT.pptx" title="BREAKOUT.pptx">BREAKOUT.pptx</a></p>
+<p><a href="https://github.com/peredalagosusana-spec/web3/blob/main/BREAKOUT.pptx" title="">https://github.com/peredalagosusana-spec/web3/blob/main/BREAKOUT.pptx</a></p>
+<p>También <strong>crearemos papeleras de reciclaje </strong>(azul, marrón y amarilla) con cajas de cartón decoradas como "Rana de tres ojos" para usar en el recreo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775848177506-u9mhnfsjs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Fecha: <strong>Día del Reciclaje </strong>(17 de mayo).</p>\n<p>Realizaremos un Breakout para recordar la Regla de las 3 R y reforzaremos el fonema R. Para ello, les proyectaré una presentación y me ayudarán a realizar cada uno de los Retos para conseguir un código que abrirá el candado del cofre del reciclaje.</p>\n<p>Tendrán que ir completando un total de 3 retos para conseguir con cada uno de ellos un código secreto. Al final tendrán que introducir esos 3 códigos en la PDi y conseguirán ayudar a Nube a abrir el cofre.</p>\n<p>Para ello utilizaré la siguiente presentación:</p>\n<p><a href=\"{{context_path}}/content/resources/BREAKOUT.pptx\" title=\"BREAKOUT.pptx\">BREAKOUT.pptx</a></p>\n<p><a href=\"https://github.com/peredalagosusana-spec/web3/blob/main/BREAKOUT.pptx\" title=\"\">https://github.com/peredalagosusana-spec/web3/blob/main/BREAKOUT.pptx</a></p>\n<p>También <strong>crearemos papeleras de reciclaje </strong>(azul, marrón y amarilla) con cajas de cartón decoradas como \"Rana de tres ojos\" para usar en el recreo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpa8ak15-b8zew0fwe</odePageId>
+  <odeParentPageId>page-mpa8ak12-1h9ic98wp</odeParentPageId>
+  <pageName>ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpa8ak15-b8zew0fwe</odePageId>
+      <odeBlockId>block-1776183755116-j4tkc0dgx</odeBlockId>
+      <blockName>ATRIBUCIÓN Y DESCARGA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak15-b8zew0fwe</odePageId>
+          <odeBlockId>block-1776183755116-j4tkc0dgx</odeBlockId>
+          <odeIdeviceId>idevice-1776183755116-sz6k002oe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775757079980-agntbnup3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpa8ak15-b8zew0fwe</odePageId>
+      <odeBlockId>block-1776183755116-125pq9qnm</odeBlockId>
+      <blockName>LICENCIA Y DESCARGA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpa8ak15-b8zew0fwe</odePageId>
+          <odeBlockId>block-1776183755116-125pq9qnm</odeBlockId>
+          <odeIdeviceId>idevice-1776183755116-bpmxhj3br</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CONCRECCIÓN CURRICULAR SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked">Susana Pereda Lago</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#75105a;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
